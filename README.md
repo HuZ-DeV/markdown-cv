@@ -4,6 +4,9 @@
 ### Graduated from HMS School 
 ### Degree: Life Science Degree
 ### Personality Traits :
-### Hobbies : >Futbol , Coding , Reading Books 
+1. Calm
+2. Responsible
+3. Bilingual
+### Hobbies : Futbol , Coding , Reading Books 
 ### Previous Jobs : *none*
 ![My Image](myimg.png)
